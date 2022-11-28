@@ -1,0 +1,6 @@
+- path: /goo
+  url: https://google.com
+- path: /fb
+  url: https://facebook.com
+- path: /cat
+  url: https://www.youtube.com/watch?v=JxS5E-kZc2s
